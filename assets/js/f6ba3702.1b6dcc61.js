@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkturnbasedgames=self.webpackChunkturnbasedgames||[]).push([[293],{8495:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/welcome","name":"welcome","count":1,"permalink":"/blog/tags/welcome"}')}}]);
