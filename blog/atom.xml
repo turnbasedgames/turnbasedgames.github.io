@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://turnbasedgames.github.io/blog</id>
+    <id>https://github.com/turnbasedgames/blog</id>
     <title>Turn-Based-Games Blog</title>
     <updated>2022-02-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://turnbasedgames.github.io/blog"/>
+    <link rel="alternate" href="https://github.com/turnbasedgames/blog"/>
     <subtitle>Turn-Based-Games Blog</subtitle>
-    <icon>https://turnbasedgames.github.io/img/favicon.ico</icon>
+    <icon>https://github.com/turnbasedgames/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://turnbasedgames.github.io/blog/welcome"/>
+        <link href="https://github.com/turnbasedgames/blog/welcome"/>
         <updated>2022-02-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Get the latest on new features, awesome games, upcoming events, and technology from the Turn-Based-Games team.]]></summary>
         <content type="html"><![CDATA[<p>Get the latest on new features, awesome games, upcoming events, and technology from the Turn-Based-Games team.</p>]]></content>
