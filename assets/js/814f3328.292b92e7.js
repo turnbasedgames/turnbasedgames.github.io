@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkturnbasedgames=self.webpackChunkturnbasedgames||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/docs/blog/welcome"}]}')}}]);
