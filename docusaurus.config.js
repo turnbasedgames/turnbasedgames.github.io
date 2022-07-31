@@ -24,12 +24,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/turnbasedgames/docs',
+          editUrl: 'https://github.com/turnbasedgames/turnbasedgames.github.io',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/turnbasedgames/docs',
+            'https://github.com/turnbasedgames/turnbasedgames.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -50,7 +50,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'getting-started',
             position: 'left',
             label: 'Docs',
           },
@@ -70,7 +70,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/getting-started',
               },
             ],
           },
